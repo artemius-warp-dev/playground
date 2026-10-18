@@ -1,0 +1,18 @@
+# Elixir / Erlang
+_build/
+deps/
+.elixir_ls/
+.lexical/
+erl_crash.dump
+*.beam
+*.ez
+rebar3.crashdump
+
+# Go / C++ build output
+/cpp/stats
+/cpp/upgrade_test
+
+# Editors
+*~
+\#*\#
+.#*
